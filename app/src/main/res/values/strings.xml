@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodWeighMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Food.Weigh.Me</string>
+    <string name="subtitle">How much food are you?</string>
+    <string name="food_weight">You weigh %1$s"</string>
+
+</resources>
